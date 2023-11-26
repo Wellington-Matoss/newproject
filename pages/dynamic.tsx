@@ -36,7 +36,7 @@ const Dynamic: NextPage = (props: {
 
   return (
     <Container tag="main">
-      <h1 className="my-5">Como funcionam as renderizações do Next.js</h1>
+      <h1 className="my-5">Como funcionam as renderizações do Next.js XD</h1>
 
       <Row>
         <Col>
